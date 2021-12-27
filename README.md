@@ -1,4 +1,4 @@
-# vue-laravel-crud
+# vue-laravel-example
 
 Vue 2.6 + Laravel 6 + Axios CRUD example app
 
